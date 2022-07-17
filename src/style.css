@@ -14,3 +14,22 @@ h1 {
     line-height: 28px;
     margin-bottom: 0;
 }
+h2{
+    font-size: 48px;
+}
+.description-weather{
+    color: rgb(135, 135, 135);
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 19px;
+}
+.main-icon-weather {
+    width: 5rem;
+}
+.temp-dif {
+    text-decoration: none;
+    font-size: 16px;
+}
+.open-source{
+    text-decoration: none;
+}
