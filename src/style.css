@@ -37,6 +37,30 @@ h2{
     color:#000;
     cursor: default;
 }
+.weather-forecast{
+    text-align: center;
+}
+.weather-forecast-date{
+    font-size: 16px;
+    font-weight: 400;
+    color: #202124;
+    line-height: 15px;
+    padding-top: 7px;
+}
+.weather-forecast-icon{
+    width:36px;
+}
+.weather-forecast-temp{
+    font-size: 13px;
+    line-height: 15px;
+}
+.forecast-temp-max{
+    color: #202124;
+    padding-right: 5px;
+}
+.forecast-temp-min{
+    color: #70757a;
+}
 .open-source{
     text-decoration: none;
 }
