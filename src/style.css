@@ -58,6 +58,7 @@ h2{
 .weather-forecast-temp{
     font-size: 13px;
     line-height: 15px;
+    padding-bottom: 7px;
 }
 .forecast-temp-max{
     color: #202124;
